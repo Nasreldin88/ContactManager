@@ -1,3 +1,4 @@
+![Project snapshot](https://github.com/Nasreldin88/ContactManager/blob/master/snap1.PNG)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
